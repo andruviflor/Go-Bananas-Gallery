@@ -1,0 +1,26 @@
+.navbar-brand{
+	font-family: Monoton;
+}
+
+.navbar {
+	color:black;
+	font-family: Voltaire;
+	font-size: 400
+}
+
+.jumbotron{
+	background: #00b3b3 !important;
+	color: white;
+	font-family: Monoton;
+	font-size: 50px;
+}
+
+
+p{
+	font-family: Voltaire;
+	font-size: 20px;
+}
+
+.col-lg-4 {
+	padding: 6px;
+}
